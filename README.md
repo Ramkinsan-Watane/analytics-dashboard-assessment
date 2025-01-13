@@ -1,3 +1,16 @@
+### Explore the live dashboard here:-  https://sage-sopapillas-7130f8.netlify.app/
+
+## his project is built using modern technologies React 18, Recharts, Vite,.
+
+#To get started, clone the repository, install the dependencies, and run the development server.
+
+git clone
+
+npm install
+npm run dev
+
+
+
 # MapUp - Analytics Dashboard Assessment
 
 ## Overview
